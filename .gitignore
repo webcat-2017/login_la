@@ -1,0 +1,5 @@
+/.idea/
+/build/
+/dist/
+lock.log
+lock_la.spec
